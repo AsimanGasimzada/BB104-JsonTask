@@ -1,0 +1,17 @@
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\obj\Debug\net8.0\14.04-BB104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\obj\Debug\net8.0\14.04-BB104.AssemblyInfoInputs.cache
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\obj\Debug\net8.0\14.04-BB104.AssemblyInfo.cs
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\obj\Debug\net8.0\14.04-BB104.csproj.CoreCompileInputs.cache
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\bin\Debug\net8.0\14.04-BB104.exe
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\bin\Debug\net8.0\14.04-BB104.deps.json
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\bin\Debug\net8.0\14.04-BB104.runtimeconfig.json
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\bin\Debug\net8.0\14.04-BB104.dll
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\bin\Debug\net8.0\14.04-BB104.pdb
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\obj\Debug\net8.0\14.04-BB104.dll
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\obj\Debug\net8.0\refint\14.04-BB104.dll
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\obj\Debug\net8.0\14.04-BB104.pdb
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\obj\Debug\net8.0\14.04-BB104.genruntimeconfig.cache
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\obj\Debug\net8.0\ref\14.04-BB104.dll
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\obj\Debug\net8.0\14.04-BB104.csproj.AssemblyReference.cache
+C:\Users\Asiman\source\repos\14.04-BB104\14.04-BB104\obj\Debug\net8.0\14.04-BB.73A049E1.Up2Date
