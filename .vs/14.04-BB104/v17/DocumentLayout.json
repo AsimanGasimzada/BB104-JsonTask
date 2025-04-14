@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Asiman\\source\\repos\\14.04-BB104\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B8494DA-EBFB-4473-AA97-63B6C33E2F46}|14.04-BB104\\14.04-BB104.csproj|c:\\users\\asiman\\source\\repos\\14.04-bb104\\14.04-bb104\\helpers\\groupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8494DA-EBFB-4473-AA97-63B6C33E2F46}|14.04-BB104\\14.04-BB104.csproj|solutionrelative:14.04-bb104\\helpers\\groupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B8494DA-EBFB-4473-AA97-63B6C33E2F46}|14.04-BB104\\14.04-BB104.csproj|c:\\users\\asiman\\source\\repos\\14.04-bb104\\14.04-bb104\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B8494DA-EBFB-4473-AA97-63B6C33E2F46}|14.04-BB104\\14.04-BB104.csproj|solutionrelative:14.04-bb104\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B8494DA-EBFB-4473-AA97-63B6C33E2F46}|14.04-BB104\\14.04-BB104.csproj|c:\\users\\asiman\\source\\repos\\14.04-bb104\\14.04-bb104\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B8494DA-EBFB-4473-AA97-63B6C33E2F46}|14.04-BB104\\14.04-BB104.csproj|solutionrelative:14.04-bb104\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B8494DA-EBFB-4473-AA97-63B6C33E2F46}|14.04-BB104\\14.04-BB104.csproj|c:\\users\\asiman\\source\\repos\\14.04-bb104\\14.04-bb104\\helpers\\groupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B8494DA-EBFB-4473-AA97-63B6C33E2F46}|14.04-BB104\\14.04-BB104.csproj|solutionrelative:14.04-bb104\\helpers\\groupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B8494DA-EBFB-4473-AA97-63B6C33E2F46}|14.04-BB104\\14.04-BB104.csproj|c:\\users\\asiman\\source\\repos\\14.04-bb104\\14.04-bb104\\jsons\\groups.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "14.04-BB104\\Jsons\\groups.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAD9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-14T09:06:34.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T09:06:34.436Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "14.04-BB104\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:58:54.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T08:58:54.642Z"
             },
             {
               "$type": "Document",
@@ -88,18 +86,17 @@
               "RelativeToolTip": "14.04-BB104\\Models\\Group.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:52:26.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T08:52:26.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GroupManager.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\14.04-BB104\\14.04-BB104\\Helpers\\GroupManager.cs",
               "RelativeDocumentMoniker": "14.04-BB104\\Helpers\\GroupManager.cs",
               "ToolTip": "C:\\Users\\Asiman\\source\\repos\\14.04-BB104\\14.04-BB104\\Helpers\\GroupManager.cs",
               "RelativeToolTip": "14.04-BB104\\Helpers\\GroupManager.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAuwFQAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T08:51:37.682Z",
               "EditorCaption": ""
@@ -114,12 +111,11 @@
               "RelativeToolTip": "14.04-BB104\\Models\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:48:08.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T08:48:08.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\14.04-BB104\\14.04-BB104\\Models\\Student.cs",
               "RelativeDocumentMoniker": "14.04-BB104\\Models\\Student.cs",
@@ -127,18 +123,17 @@
               "RelativeToolTip": "14.04-BB104\\Models\\Student.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAkwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:47:45.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T08:47:45.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\14.04-BB104\\14.04-BB104\\Program.cs",
               "RelativeDocumentMoniker": "14.04-BB104\\Program.cs",
               "ToolTip": "C:\\Users\\Asiman\\source\\repos\\14.04-BB104\\14.04-BB104\\Program.cs",
               "RelativeToolTip": "14.04-BB104\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T07:59:28.279Z",
               "EditorCaption": ""

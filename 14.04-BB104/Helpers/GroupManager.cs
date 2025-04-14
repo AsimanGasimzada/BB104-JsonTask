@@ -5,22 +5,7 @@ using Newtonsoft.Json;
 namespace _14._04_BB104.Helpers;
 public class GroupManager
 {
-    private List<Group> _groups;
-    public List<Group> Groups
-    {
-        get
-        {
 
-            _groups = ReadFromJson();
-            return _groups;
-
-        }
-        set
-        {
-            _groups = value;
-            WriteToJson(_groups);
-        }
-    }
     private string _path = "../../../Jsons/groups.json";
     public GroupManager()
     {
@@ -34,16 +19,15 @@ public class GroupManager
 
     public void Add(Group group)
     {
-        var isExist = Groups.Any(x => x.Id == group.Id);
+        var groups = ReadFromJson();
+
+        var isExist = groups.Any(x => x.Id == group.Id);
 
         if (isExist)
             throw new AlreadyExistException("this group is already exist");
 
-        _groups = ReadFromJson();
-
-        _groups.Add(group);
-        WriteToJson(_groups);
-
+        groups.Add(group);
+        WriteToJson(groups);
 
         Console.WriteLine("Successfully added");
 
@@ -52,15 +36,14 @@ public class GroupManager
 
     public void Delete(int id)
     {
-        var existGroup = Groups.FirstOrDefault(x => x.Id == id);
+        var groups = ReadFromJson();
+        var existGroup = groups.FirstOrDefault(x => x.Id == id);
 
         if (existGroup is null)
             throw new NotFoundException();
 
-        _groups = ReadFromJson();
-
-        _groups.Remove(existGroup);
-        WriteToJson(_groups);
+        groups.Remove(existGroup);
+        WriteToJson(groups);
 
         Console.WriteLine("Successfully removed");
     }
@@ -68,12 +51,13 @@ public class GroupManager
 
 
 
-    public void PrintAll() => Groups.ForEach(group => Console.WriteLine(group));
+    public void PrintAll() => ReadFromJson().ForEach(group => Console.WriteLine(group));
 
 
     public void GetById(int id)
     {
-        var group = Groups.FirstOrDefault(x => x.Id == id);
+        var groups = ReadFromJson();
+        var group = groups.FirstOrDefault(x => x.Id == id);
 
         if (group is null)
             throw new NotFoundException();
